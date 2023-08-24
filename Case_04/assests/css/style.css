@@ -1,7 +1,7 @@
 section>div:first-child{
     background-color: red;
     height: 50px;
-    position: relative;
+    position: sticky;
 }
 
 section>div>span{
